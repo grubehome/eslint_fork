@@ -7,6 +7,8 @@
 
 # ESLint
 
+
+
 [Website](https://eslint.org) |
 [Configure ESLint](https://eslint.org/docs/latest/use/configure) |
 [Rules](https://eslint.org/docs/rules/) |
@@ -44,6 +46,10 @@ ESLint is a tool for identifying and reporting on patterns found in ECMAScript/J
 ## Installation and Usage
 
 ### Prerequisites
+
+> [!NOTE]
+> Andreas Grube: Kleine Test Anmerkung.
+
 
 To use ESLint, you must have [Node.js](https://nodejs.org/) (`^20.19.0`, `^22.13.0`, or `>=24`) installed and built with SSL and ICU support. (If you are using an official Node.js distribution, both SSL and ICU are always built in.)
 
